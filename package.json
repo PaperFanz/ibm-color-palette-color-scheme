@@ -1,0 +1,22 @@
+{
+    "name": "ibm-color-palette-color-scheme",
+    "displayName": "IBM Color Palette Color Scheme",
+    "description": "Color theme based on the IBM design resources color library.",
+    "version": "0.0.1",
+    "publisher": "PaperFanz",
+    "engines": {
+        "vscode": "^1.28.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "IBM Colors Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/IBM Colors Theme-color-theme.json"
+            }
+        ]
+    }
+}
