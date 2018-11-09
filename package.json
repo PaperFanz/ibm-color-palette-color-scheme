@@ -2,7 +2,7 @@
     "name": "ibm-color-palette-color-scheme",
     "displayName": "IBM Color Palette Color Scheme",
     "description": "Color theme based on the IBM design resources color library.",
-    "icon": "ibm-color-scheme-icon.png",
+    "icon": "ibm-color-scheme-icon-lowres.png",
     "repository": {
         "type": "Github",
         "url": "https://github.com/PaperFanz/ibm-color-palette-color-scheme"
