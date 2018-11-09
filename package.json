@@ -7,7 +7,7 @@
         "type": "Github",
         "url": "https://github.com/PaperFanz/ibm-color-palette-color-scheme"
     },
-    "version": "1.0.0",
+    "version": "1.1.0",
     "publisher": "PaperFanz",
     "engines": {
         "vscode": "^1.28.0"
