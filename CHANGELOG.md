@@ -2,9 +2,7 @@
 
 All notable changes to the "ibm-color-palette-color-scheme" extension will be documented in this file.
 
-## [Unreleased]
-
-## [1.2.0] 11-11-18
+## [1.2.1] 11-11-18
 
 - Snippet support improved
 
