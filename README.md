@@ -7,12 +7,12 @@ Do note that the forground elements are fairly bright because I seem to be going
 ## Screenshots
 
 Editing the colorscheme source code using the theme, and showing off the sidebar tabs:
-![UI showcase](https://github.com/PaperFanz/ibm-color-palette-color-scheme/blob/master/images/showoff.gif)
+![UI showcase](images/showoff.gif)
 
 Rust syntax highlighting:
-![Rust editing](https://github.com/PaperFanz/ibm-color-palette-color-scheme/blob/master/images/rust.gif)
+![Rust editing](images/rust.gif)
 
 LC3 assembly syntax highlighting and snippets, extenstion [here](https://marketplace.visualstudio.com/items?itemName=PaperFanz.lc3-assembly):
-![LC3 assembly editing](https://github.com/PaperFanz/ibm-color-palette-color-scheme/blob/master/images/lc3asm.gif)
+![LC3 assembly editing](images/lc3asm.gif)
 
 **Enjoy!**

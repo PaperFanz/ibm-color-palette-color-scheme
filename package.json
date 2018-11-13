@@ -1,13 +1,13 @@
 {
     "name": "ibm-color-palette-color-scheme",
-    "displayName": "IBM Color Palette Color Scheme",
-    "description": "Color theme based on the IBM design resources color library.",
+    "displayName": "IBM Color Scheme [DARK]",
+    "description": "A dark color theme based on the IBM design resources color library.",
     "icon": "ibm-color-scheme-icon-lowres.png",
     "repository": {
         "type": "Github",
         "url": "https://github.com/PaperFanz/ibm-color-palette-color-scheme"
     },
-    "version": "1.2.2",
+    "version": "1.3.0",
     "publisher": "PaperFanz",
     "engines": {
         "vscode": "^1.28.0"
