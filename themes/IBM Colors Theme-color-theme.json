@@ -667,7 +667,7 @@
 			"scope": [
 				"markdown.heading",
 				"markup.heading | markup.heading entity.name",
-				"markup.heading.markdown punctuation.definition.heading.markdown"
+				"markup.heading.markdown","punctuation.definition.heading.markdown"
 			],
 			"settings": {
 				"foreground": "#009bef"
