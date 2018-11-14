@@ -15,4 +15,4 @@ Rust syntax highlighting:
 LC3 assembly syntax highlighting and snippets, extenstion [here](https://marketplace.visualstudio.com/items?itemName=PaperFanz.lc3-assembly):
 ![LC3 assembly editing](images/lc3asm.gif)
 
-**Enjoy!**
+***Enjoy!***

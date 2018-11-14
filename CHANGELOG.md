@@ -7,6 +7,7 @@ All notable changes to the "ibm-color-palette-color-scheme" extension will be do
 - Snippet support improved
 - Add images to README
 - Small tweaks to editor highlight colors to improve readability
+- Small tweaks to markdown colors to improve readability
 
 ## [1.0.0] 11-08-18
 
